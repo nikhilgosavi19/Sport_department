@@ -1,0 +1,16 @@
+D:\Myproj18\Srmsports\Srmsports\bin\Srmsports.dll
+D:\Myproj18\Srmsports\Srmsports\bin\Srmsports.pdb
+D:\Myproj18\Srmsports\Srmsports\obj\Debug\Srmsports.dll
+D:\Myproj18\Srmsports\Srmsports\obj\Debug\Srmsports.pdb
+D:\Myproj18\Srmsports\Srmsports\bin\MySql.Data.Entity.EF6.dll
+D:\Myproj18\Srmsports\Srmsports\bin\MySql.Data.Entity.EF6.xml
+D:\Myproj18\Srmsports\Srmsports\bin\MySql.Data.dll
+D:\Myproj18\Srmsports\Srmsports\bin\MySql.Data.xml
+D:\Myproj18\Srmsports\Srmsports\obj\Debug\Srmsports.csprojResolveAssemblyReference.cache
+F:\Myproj18\Srmsports\Srmsports\bin\Srmsports.dll
+F:\Myproj18\Srmsports\Srmsports\bin\Srmsports.pdb
+F:\Myproj18\Srmsports\Srmsports\bin\MySql.Data.xml
+F:\Myproj18\Srmsports\Srmsports\bin\MySql.Data.Entity.EF6.xml
+F:\Myproj18\Srmsports\Srmsports\obj\Debug\Srmsports.csprojResolveAssemblyReference.cache
+F:\Myproj18\Srmsports\Srmsports\obj\Debug\Srmsports.dll
+F:\Myproj18\Srmsports\Srmsports\obj\Debug\Srmsports.pdb
